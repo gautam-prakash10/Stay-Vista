@@ -1,0 +1,40 @@
+/* .slider-container {
+    overflow: hidden;
+    width: 100%;
+}
+
+.slider-wrapper {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.slider-item {
+    flex: 0 0 auto;
+    width: 100%;
+}
+
+#prevBtn, #nextBtn {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 24px;
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    border: none;
+    outline: none;
+}
+
+#prevBtn {
+    left: 10px;
+}
+
+#nextBtn {
+    right: 10px;
+}
+img{
+    height: 100px;
+    width: 100px;
+    padding: 50px;
+} */

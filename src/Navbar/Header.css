@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navBar{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    /* justify-content: space-around; */
+    gap:15px;
+    padding: 20px 72px;
+    flex-wrap: nowrap;
+    max-width:1600px;
+    margin: 0 auto;
+    align-items: center;
+   
+}
+.logo{
+    font-size: 25px;
+    margin:0;
+    cursor: pointer;
+}
+.navLink{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
+.home,
+.explore,
+.luxurygetaways,
+.listyourproperty,
+.contact,
+.login{
+    list-style: none;
+    text-decoration: none;
+    color: rgb(11, 11, 11);
+    margin:  0;
+    cursor: pointer; 
+    display: inline-block;
+    padding: 12px;
+    font-size: 18px;
+    text-align: center;
+   
+}
+  .luxurygetaways{
+    border: 1px solid rgb(10, 9, 9);
+    border-radius:5px ;
+    color: rgb(222, 168, 68);
+    background: rgb(128,128,132);
+background: radial-gradient(circle, rgba(128,128,132,1) 5%, rgba(11,11,11,1) 70%);
+
+}
+
+.listyourproperty{
+    border: 1px solid rgb(10, 10, 10);
+    border-radius:5px ;
+    text-decoration: none;
+}
+.listyourproperty:hover{
+    background-color: black;
+    color:white;
+    text-decoration: none;
+}
+.contact{
+    border: 1px solid rgb(15, 14, 14);
+    border-radius:5px ;
+    text-decoration: none;
+
+}
+.contact:hover{
+    background-color: black;
+    color:white;
+    text-decoration: none;
+}
+.luxurygetaways:hover{
+    text-decoration: none;
+    color: rgb(222, 168, 68);
+}
+
+.login{
+    font-size: 20px;
+    position: relative;
+    color: rgb(11, 10, 10);
+    
+}
+.login:hover{
+    text-decoration: none;
+    color: black;
+}
+.explore:hover{
+    text-decoration: none;
+    color: black;
+}
+
+

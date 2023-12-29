@@ -1,0 +1,107 @@
+.carousel-indicators [data-bs-target] {
+    border-radius: 100%;
+    width: 10px;
+    height: 10px;
+}
+.btn1{
+     background-color:rgba(0,0,0,.4);
+     border-radius:4px; 
+     border:1px solid #fff;
+     padding: 16px 24px;
+     color:#fff;
+    margin-top:-150px ;
+    font-size: 16px;
+    font-family: Inter, sans-serif;
+    font-style: normal;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    font-weight: 500;
+    pointer-events:all;
+    cursor: pointer;
+    max-width: 516px;
+    height: 52px;
+
+}
+.btn1:hover{
+ background-color: black;
+ color: white;
+
+}
+/* .btn2{
+    background:none;
+    border-radius:3px; 
+    border:1px solid white;
+    padding: 5px 10px;
+    color: white;
+    position:absolute;
+    text-align:center;
+     top:-170px;
+     font-size:20px;
+     left:350px;
+}
+.btn2:hover{
+background-color: black;
+color: white;
+}
+.btn3{
+    background:none;
+    border-radius:3px; 
+    border:1px solid white;
+    padding: 5px 10px;
+    color: white;
+    position:absolute;
+    top:-170px;
+    border:1px solid;
+    font-size:20px;
+    left:350px;
+} */
+/* .btn3:hover{
+background-color: black;
+color: white;
+
+} */
+.txt1{
+    color: #FFFF;
+    font-size: 3rem ;
+    position:absolute;
+    top:-250px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   margin-bottom: 24px;
+    width:100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    z-index: 1;
+    font-weight: 900;
+    cursor: pointer;
+    font-family:'Larken Medium' sans-serif ;
+}
+/* .txt2{
+    color: #FFFF;
+    font-size: 30px ;
+    margin-bottom: 24px;
+    position:absolute;
+    top:-220px;
+    left:200px;
+    font-family:'Larken Medium' sans-serif ;
+}
+.txt3{
+    color: #FFFF;
+    font-size: 30px ;
+    margin-bottom: 24px;
+    position:absolute;
+    top:-220px;
+    left:300px;
+    font-family:'Larken Medium' sans-serif ;
+} */
+/* img{
+    width: 100vw;
+    height: 34.0625rem;
+    cursor: pointer;
+    margin-top: -10px;
+} */
+
